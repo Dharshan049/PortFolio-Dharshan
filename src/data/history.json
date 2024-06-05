@@ -1,0 +1,18 @@
+[
+  {
+    "role": "AI and ML Intern",
+    "organisation": "Innovate Technologies",
+    "startDate": "Feb, 2024",
+    "endDate": "May, 2024",
+    "experiences": ["Enhanced segmentation accuracy with precision", "Employed Mask R-CNN effectively for segmentation"],
+    "imageSrc": "history/innovate.png"
+  },
+  {
+    "role": "AI Intern",
+    "organisation": "IntrnForte",
+    "startDate": "Aug, 2023",
+    "endDate": "Oct, 2023",
+    "experiences": ["Enhanced insurance AI efficiency", "Utilized CNN for cancer"],
+    "imageSrc": "history/intrnforte.png"
+  }
+]

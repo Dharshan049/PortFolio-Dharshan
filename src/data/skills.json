@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  },
+  {
+    "title": "Computer Vision ",
+    "imageSrc": "skills/cvzone.png"
+  },
+  {
+    "title": "ML",
+    "imageSrc": "skills/ml.png"
+  },
+  {
+    "title": "Game Eng",
+    "imageSrc": "skills/gameeng.png"
+  },
+  {
+    "title": "MySQL Database",
+    "imageSrc": "skills/mysql.png"
+  },
+  {
+    "title": "Statistics",
+    "imageSrc": "skills/stat.png"
+  }
+]

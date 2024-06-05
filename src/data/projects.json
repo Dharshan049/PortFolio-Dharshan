@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Sign Language Interpretation",
+    "imageSrc": "projects/project1.png",
+    "description": "This project enables real-time sign language interpretation through hand gesture recognition using computer vision techniques and streaming technology.",
+    "skills": ["Computer Vision", "Deep Learning", "GUI"],
+    "source": "https://github.com/Dharshan049/Design-Project-2.git"
+  },
+  {
+    "title": "Electric Vehicle Maintanenece Scheduling",
+    "imageSrc": "projects/project2.png",
+    "description": "Developed an electric vehicle maintenance system with ESP32 PCB, integrating sensors and ML clustering, tested online with Wokwi before offline implementation.",
+    "skills": ["PCB Customization", "Data Collection", "Sensor Intergration"],
+    "source": "https://github.com/Dharshan049/Electric-Vehicle-Maintanence-Scheduler.git"
+  },
+  {
+    "title": "Contactless DoorBell System",
+    "imageSrc": "projects/project3.png",
+    "description": "Designed a contactless doorbell system with ESP32 CAM for image capture and real-time notifications. Implemented secure communication for enhanced user privacy.",
+    "skills": ["IOT Integration", "ESP32Cam Usage", "DataBase Management"],
+    "source": "https://github.com/Dharshan049/Design-Project-using-IOT.git"
+  },
+  {
+    "title": "Table Tennis using Hand Gesture",
+    "imageSrc": "projects/project6.png",
+    "description": "Revolutionary AI-powered hand motion detection technology enhances table tennis gameplay through real-time tracking and gesture recognition, promoting accessibility and improving player techniques.",
+    "skills": ["Computer Vision", "Machine Learning", "Game Design"],
+    "source": "https://github.com/Dharshan049/Table-Tennis-Using-Hand-Gesture.git"
+  },
+  {
+    "title": "MapQuest",
+    "imageSrc": "projects/project5.png",
+    "description": "MapQuest: A memory-based game in Godot Engine where players must memorize maps and select the correct location to progress through levels.",
+    "skills": ["Game Design", "UI Design", "Game Play Mechnics"],
+    "source": "https://github.com/Dharshan049/Map-Quest.git"
+  }
+]
